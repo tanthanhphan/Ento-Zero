@@ -4,4 +4,4 @@ Won the Sustainability Award & 1st Place Computer Science Award in the Spring 20
 The Quorum Programming Language is the world's first evidence-oriented programming language.
 More info about Quorum can be found with this link https://quorumlanguage.com/.
 
-To play the game, simply download and unzip the .zip file and then download quorum to load the project.
+To play the game, simply download and unzip the EntoZero.zip file and then download quorum to load the project.
